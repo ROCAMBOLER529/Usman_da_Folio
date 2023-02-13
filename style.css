@@ -1,0 +1,15 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+a {
+    text-align: center;
+}
+
+a:hover {
+    background-color: goldenrod;    
+}
+
+h1, img {
+    text-align: center;
+}
